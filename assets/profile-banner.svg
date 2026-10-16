@@ -1,36 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-<title id="title">HADriel // Personal Interface</title>
-<desc id="desc">A cybernetic HUD interface with a luminous central core, radar rings, telemetry, and futuristic developer identity.</desc>
-<defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030712"/><stop offset=".52" stop-color="#09162A"/><stop offset="1" stop-color="#160D2A"/></linearGradient>
- <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3FFFD2"/><stop offset=".5" stop-color="#5CCBFF"/><stop offset="1" stop-color="#B18CFF"/></linearGradient>
- <radialGradient id="core"><stop stop-color="#5CFFDF" stop-opacity=".28"/><stop offset="1" stop-color="#5CFFDF" stop-opacity="0"/></radialGradient>
- <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#80A7D8" stroke-opacity=".1"/></pattern>
- <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<rect width="1200" height="420" rx="22" fill="url(#bg)"/><rect width="1200" height="420" rx="22" fill="url(#grid)"/>
-<circle cx="930" cy="205" r="260" fill="url(#core)"/>
-<g stroke="url(#neon)" fill="none" opacity=".8">
- <circle cx="930" cy="205" r="142" stroke-width="1.2"/><circle cx="930" cy="205" r="118" stroke-dasharray="3 8"/>
- <ellipse cx="930" cy="205" rx="188" ry="72" transform="rotate(-34 930 205)" stroke-width="1.6"/>
- <ellipse cx="930" cy="205" rx="188" ry="72" transform="rotate(34 930 205)" stroke-width="1.6"/>
- <path d="M930 36v50M930 324v50M761 205h50M1049 205h50M810 85l35 35M1015 290l35 35M1050 85l-35 35M845 290l-35 35" stroke-width="2"/>
- <path d="M930 111l82 94-82 94-82-94z" opacity=".42"/>
-</g>
-<circle cx="930" cy="205" r="74" fill="#081626" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
-<text x="930" y="196" text-anchor="middle" fill="#F2FFFF" font-family="Consolas,monospace" font-size="19" font-weight="700">H//</text>
-<text x="930" y="220" text-anchor="middle" fill="#55D6BE" font-family="Consolas,monospace" font-size="10" letter-spacing="2">ONLINE</text>
-<g fill="#7D96B9" font-family="Consolas,monospace" font-size="10" letter-spacing="1.5">
- <text x="710" y="42">SYS.01 / PERSONAL INTERFACE</text><text x="1010" y="384">CORE // 01</text>
- <text x="710" y="388">LOCAL INTELLIGENCE • CREATIVE SYSTEMS</text>
-</g>
-<g stroke="#55D6BE" stroke-width="2"><path d="M54 62h38M54 62v38M1146 62h-38M1146 62v38M54 358h38M54 358v-38M1146 358h-38M1146 358v-38"/></g>
-<path d="M88 82h58" stroke="#55D6BE" stroke-width="3"/><text x="88" y="154" fill="#F4F7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="1">HADriel</text>
-<text x="90" y="192" fill="#55D6BE" font-family="Consolas,monospace" font-size="15" letter-spacing="3">ENGINEER YOUR OWN UNIVERSE</text>
-<text x="90" y="241" fill="#D1DCEF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Code the idea. Connect the system.</text>
-<text x="90" y="272" fill="#D1DCEF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Capture the moment.</text>
-<g fill="#8095B6" font-family="Consolas,monospace" font-size="12"><text x="90" y="320">[ EONIS ]</text><text x="200" y="320">[ JARVIS / AEGIS ]</text><text x="385" y="320">[ PHOTOGRAPHY ]</text></g>
-<g fill="#55D6BE"><circle cx="91" cy="350" r="3"/><circle cx="205" cy="350" r="3"/><circle cx="390" cy="350" r="3"/></g>
-<g fill="#B7C9E4" font-family="Consolas,monospace" font-size="10"><text x="101" y="354">BUILD</text><text x="215" y="354">AUTOMATE</text><text x="400" y="354">OBSERVE</text></g>
-<path d="M88 376H630" stroke="url(#neon)" opacity=".7"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hadriel — build with intention</title>
+  <desc id="desc">A minimal midnight-navy banner with a soft seafoam eclipse and understated orbital lines.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080F1D"/>
+      <stop offset="1" stop-color="#101B2B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B8E8DA"/>
+      <stop offset="1" stop-color="#6EBEAE"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#78CDB9" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#78CDB9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".8" fill="#B5C7D9" opacity=".18"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#dots)"/>
+  <circle cx="930" cy="180" r="210" fill="url(#halo)"/>
+  <g fill="none" stroke="#8CCFC0" stroke-width="1" opacity=".42">
+    <ellipse cx="930" cy="180" rx="184" ry="68" transform="rotate(-28 930 180)"/>
+    <ellipse cx="930" cy="180" rx="184" ry="68" transform="rotate(28 930 180)"/>
+    <circle cx="930" cy="180" r="116" stroke-dasharray="2 9"/>
+  </g>
+  <circle cx="930" cy="180" r="69" fill="#0B1523" stroke="url(#accent)" stroke-width="1.5"/>
+  <circle cx="930" cy="180" r="56" fill="none" stroke="#8CCFC0" stroke-opacity=".22"/>
+  <circle cx="951" cy="160" r="43" fill="url(#accent)" opacity=".92"/>
+  <circle cx="970" cy="145" r="43" fill="#0B1523"/>
+  <circle cx="866" cy="121" r="3" fill="#B8E8DA"/>
+  <circle cx="1060" cy="225" r="2.5" fill="#B8E8DA"/>
+  <path d="M70 70h38M70 70v38M1130 290h-38M1130 290v-38" fill="none" stroke="#8CCFC0" stroke-width="1.5" opacity=".75"/>
+  <text x="88" y="137" fill="#F1F5F9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="650" letter-spacing="-1.5">Hadriel</text>
+  <rect x="90" y="158" width="34" height="2" rx="1" fill="#9ADBCB"/>
+  <text x="90" y="196" fill="#A8DCCF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2.8">DEVELOPER · BUILDER · PHOTOGRAPHER</text>
+  <text x="90" y="237" fill="#C3CEDD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">Thoughtful systems. Useful ideas. Creative perspective.</text>
+  <text x="90" y="305" fill="#71839A" font-family="Consolas,monospace" font-size="11" letter-spacing="2">SOFTWARE  /  LOCAL AI  /  CREATIVE WORK</text>
 </svg>
