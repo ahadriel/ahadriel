@@ -1,102 +1,117 @@
 <!--
-  GitHub Profile README — ahadriel
-  Built around software, systems, photography, and ideas that become real.
+  HADriel // PROFILE SYSTEM
+  Curiosity -> experiments -> useful things.
 -->
 
 <div align="center">
 
-# Hey, I'm Hadriel 👋
-
-### Developer • Builder • Photographer • Curious mind
-
-*I like turning “what if?” into something that actually works.*
+<img src="https://raw.githubusercontent.com/ahadriel/ahadriel/main/assets/profile-banner.svg" alt="Hadriel — Build beyond the obvious" width="100%" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=55D6BE&center=true&vCenter=true&width=620&lines=Building+EONIS+%E2%80%94+time%2C+with+intention.;Exploring+local+AI+and+JARVIS-style+systems.;Learning+by+building%2C+breaking%2C+and+improving.;Behind+the+camera+when+I+need+a+new+perspective." alt="A rotating intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=55D6BE&center=true&vCenter=true&width=760&lines=Building+EONIS+%E2%80%94+YOUR+TIME.+YOUR+UNIVERSE.;Exploring+local+AI+%26+JARVIS-style+systems.;Photography+is+how+I+study+light.;Curiosity+is+the+feature%2C+not+a+bug." alt="Animated profile intro" />
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ahadriel-181717?style=for-the-badge&logo=github)](https://github.com/ahadriel)
-[![Projects](https://img.shields.io/badge/BUILDING-ideas%20into%20reality-55D6BE?style=for-the-badge&logo=rocket&logoColor=111827)](#-what-im-building)
-[![Photography](https://img.shields.io/badge/PHOTOGRAPHY-capturing%20the%20moment-8B7CF6?style=for-the-badge&logo=canon&logoColor=white)](#-beyond-the-screen)
+<a href="https://github.com/ahadriel"><img src="https://img.shields.io/badge/GitHub-ahadriel-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/ahadriel/Daymark"><img src="https://img.shields.io/badge/FEATURED_PROJECT-EONIS-55D6BE?style=for-the-badge&logo=rocket&logoColor=07111f" alt="EONIS project" /></a>
+<img src="https://img.shields.io/badge/MODE-ALWAYS_LEARNING-9B8CFF?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Always learning" />
 
 </div>
 
 ---
 
-## 🧭 About me
+## `01 / WHO AM I?`
 
-I'm a developer-in-the-making who enjoys exploring how software, hardware, and creative ideas fit together. I learn best by building real things, experimenting, and figuring out how to make them better.
+Hey, I'm **Hadriel** — a developer in progress, a hands-on builder, and a photographer who likes understanding how things work under the hood.
 
-- 💻 **Software:** web development, apps, automation, and problem-solving
-- 🤖 **AI & systems:** local AI, connected devices, and JARVIS-inspired tools
-- 📱 **Product thinking:** building software that feels useful, thoughtful, and polished
-- 📷 **Photography:** composition, light, editing, and seeing ordinary things differently
-- 🎧 **Creative side:** music, technology, and a little bit of everything
-- 🌱 **Always learning:** HTML, CSS, JavaScript, Python, C#, C++, and whatever the next project needs
+I learn by making things: write the code, connect the pieces, break something (hopefully not permanently), figure out why, and make it better. I'm interested in the space where **software, hardware, design, and creativity** overlap.
 
-## 🚀 What I'm building
+- `// SOFTWARE` Web experiences, apps, automation, and solving real problems.
+- `// SYSTEMS` Local AI, Raspberry Pi projects, connected devices, and JARVIS-inspired ideas.
+- `// DESIGN` Products that feel clear, intentional, and genuinely good to use.
+- `// CREATIVE` Photography, photo editing, music, and learning to see details others miss.
+
+> **Current mindset:** don't just collect ideas. Build the version you can actually use.
+
+## `02 / CURRENT MISSIONS`
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 🌌 EONIS
-**Your time. Your universe.**
+### <img src="https://img.shields.io/badge/01-EONIS-55D6BE?style=flat-square&labelColor=101827" alt="EONIS" />
 
-A productivity and time-management app focused on making daily life easier to organise. I'm exploring task management, local records, cloud sync, and a clean, intentional interface.
+#### Your time. Your universe.
 
-[Explore the project →](https://github.com/ahadriel/Daymark)
+A productivity and time-management app with a focus on thoughtful design, personal organisation, local records, and cloud sync.
 
-</td>
-    <td width="50%" valign="top">
+**The goal:** make time feel more intentional — and make the tool feel great to use.
 
-### 🛡️ JARVIS / Aegis
-**A smarter, connected setup.**
-
-A personal assistant and backup-tool ecosystem exploring local AI, reliable device communication, and practical automation across my computer and Raspberry Pi.
+[**Explore EONIS ↗**](https://github.com/ahadriel/Daymark)
 
 </td>
-  </tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/02-JARVIS%20%2F%20AEGIS-9B8CFF?style=flat-square&labelColor=101827" alt="JARVIS / Aegis" />
+
+#### Personal systems, built from the ground up.
+
+A personal-assistant and backup ecosystem exploring local AI, reliable communication between devices, and practical automation across a Windows machine and Raspberry Pi.
+
+**The goal:** useful intelligence, more control, fewer fragile moving parts.
+
+</td>
+</tr>
 </table>
 
-> I’m interested in projects where software meets the real world — not just code that runs, but tools that solve a problem.
-
-## 🧰 My toolkit
+## `03 / TECH STACK: LOADING...`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,cpp,git,github,linux,raspberrypi,vscode" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,cpp,git,github,linux,raspberrypi,vscode&theme=dark" alt="HTML, CSS, JavaScript, Python, C sharp, C plus plus, Git, GitHub, Linux, Raspberry Pi and VS Code" />
 </p>
 
-<p align="center">
-  <i>Still learning. Still experimenting. Always adding to the toolkit.</i>
-</p>
+<p align="center"><i>The stack changes. The curiosity doesn't.</i></p>
 
-## 📷 Beyond the screen
+## `04 / GITHUB TELEMETRY`
 
-Photography is my creative reset. I enjoy working with camera gear, learning the craft, and using editing to bring an image closer to the feeling I wanted to capture. I’m also into music production and the intersection of creativity and technology.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahadriel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=55D6BE&icon_color=9B8CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadriel&layout=compact&hide_border=true&bg_color=0D1117&title_color=55D6BE&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
+</div>
 
-## 🤝 What I'd love to explore
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ahadriel&hide_border=true&background=0D1117&ring=55D6BE&fire=9B8CFF&currStreakLabel=55D6BE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="70%" />
+</div>
 
-- Robotics and useful hardware projects
-- Front-end and back-end software
-- Apps with thoughtful design and real-world value
-- Local AI, automation, and connected systems
-- Game development and creative coding
+<sub>Stats are provided by external GitHub README services and may occasionally be unavailable or delayed.</sub>
 
-If you're building something interesting, feel free to say hello!
+## `05 / OFF-SCREEN`
 
-## 📬 Find me
+<div align="center">
+  <img src="https://img.shields.io/badge/PHOTOGRAPHY-light%20%2B%20perspective-55D6BE?style=flat-square&labelColor=101827" alt="Photography" />
+  <img src="https://img.shields.io/badge/MUSIC-making%20noise%20on%20purpose-9B8CFF?style=flat-square&labelColor=101827" alt="Music production" />
+  <img src="https://img.shields.io/badge/ROBOTICS-ideas%20with%20moving%20parts-F4B860?style=flat-square&labelColor=101827" alt="Robotics" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/ahadriel">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-</p>
+Photography is my way to reset and pay attention to light, composition, and little details. I'm also into music production and the endless possibilities when creative work meets technology.
+
+## `06 / OPEN TO INTERESTING IDEAS`
+
+- 🤖 Local AI, automation, and connected systems
+- 🧩 Apps with thoughtful UX and real-world value
+- 🔌 Robotics and useful hardware experiments
+- 🎮 Game development and creative coding
+- 🌐 Front-end, back-end, and everything between
+
+Got a cool project or an idea worth exploring? [Find me on GitHub](https://github.com/ahadriel).
+
+---
 
 <div align="center">
 
-### *Build with curiosity. Improve with every iteration.* ✨
+### `> BUILD. LEARN. REFINE. REPEAT.`
 
-<sub>Thanks for stopping by — have a look around!</sub>
+*Made with curiosity — and probably one more idea than free time.* ✦
+
+<img src="https://komarev.com/ghpvc/?username=ahadriel&style=flat-square&color=55D6BE&label=PROFILE+VISITS" alt="Profile visit counter" />
 
 </div>
