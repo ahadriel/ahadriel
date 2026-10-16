@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Hadriel — Build beyond the obvious</title>
+<desc id="desc">A dark futuristic banner with teal and violet orbital geometry and a developer-themed message.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B16"/><stop offset=".55" stop-color="#10172B"/><stop offset="1" stop-color="#17102D"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55D6BE"/><stop offset="1" stop-color="#9B8CFF"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#55D6BE" stop-opacity=".22"/><stop offset="1" stop-color="#55D6BE" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A7B4D4" stroke-opacity=".08" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+<circle cx="1000" cy="170" r="260" fill="url(#glow)"/>
+<g fill="none" stroke="url(#line)" stroke-width="1.5" opacity=".8">
+  <ellipse cx="980" cy="180" rx="205" ry="76" transform="rotate(-28 980 180)"/>
+  <ellipse cx="980" cy="180" rx="205" ry="76" transform="rotate(35 980 180)"/>
+  <ellipse cx="980" cy="180" rx="120" ry="190" transform="rotate(20 980 180)" opacity=".5"/>
+  <circle cx="980" cy="180" r="70" opacity=".5"/>
+</g>
+<circle cx="1080" cy="91" r="5" fill="#55D6BE"/><circle cx="827" cy="251" r="4" fill="#A99BFF"/><circle cx="1128" cy="239" r="3" fill="#55D6BE"/>
+<path d="M64 70h50" stroke="#55D6BE" stroke-width="3" stroke-linecap="round"/>
+<text x="64" y="144" fill="#F4F7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="1">HADriel</text>
+<text x="64" y="184" fill="#55D6BE" font-family="JetBrains Mono,Consolas,monospace" font-size="17" letter-spacing="4">DEVELOPER IN PROGRESS // BUILDER BY INSTINCT</text>
+<text x="64" y="235" fill="#C4CCE0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">Software. Systems. Stories through a lens.</text>
+<text x="64" y="286" fill="#8F9BB8" font-family="JetBrains Mono,Consolas,monospace" font-size="14">TURN CURIOSITY INTO SOMETHING REAL.</text>
+<rect x="64" y="315" width="1072" height="1" fill="url(#line)" opacity=".55"/>
+</svg>
